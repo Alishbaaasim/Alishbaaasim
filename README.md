@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alishbaaasim  
 - 👀 I’m interested in microprocessor systems , computer architecture and power systems.**  
 - 🌱 I’m currently pursuing **Electrical Engineering at UET Lahore.**  
-- 💞️ I’m looking to collaborate on **projects involving microcontrollers, automation, or gesture-controlled systems.**  
+- 💞️ I’m looking to collaborate on **projects involving microcontrollers.**  
 - 📫 How to reach me: alishbaasimbutt@gmail.com  
 - 😄 Pronouns: **She/Her**  
 - ⚡ Fun fact: **I enjoy exploring new tech while binge-watching movies!**  
